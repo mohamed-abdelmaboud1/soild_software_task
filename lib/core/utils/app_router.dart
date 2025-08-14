@@ -1,6 +1,8 @@
 import 'package:go_router/go_router.dart';
 import 'package:soild_software_task/features/splash/views/splash_view.dart';
+import 'package:soild_software_task/features/home/presentation/widgets/home_view.dart';
 import 'package:soild_software_task/main.dart';
+import 'package:soild_software_task/features/home/presentation/views/next_page_view.dart';
 
 class AppRouter {
   static const String splash = '/';

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:gap/gap.dart';
-import 'package:soild_software_task/core/extensions/app_colors_extension.dart';
+import 'package:soild_software_task/core/extensions/color_palette_extension.dart';
 
 import '../enums/snack_bar_type.dart';
 import '../utils/app_images.dart';

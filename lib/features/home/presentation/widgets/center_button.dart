@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:soild_software_task/core/helper/push_with_slide_transition.dart';
 import 'package:soild_software_task/core/utils/app_styles.dart';
-import 'package:soild_software_task/main.dart';
 import 'package:soild_software_task/features/home/presentation/views/next_page_view.dart';
 
 class CenterButton extends StatelessWidget {
